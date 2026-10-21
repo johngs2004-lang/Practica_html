@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang= "es">
+    <head>
+        <meta charset= "UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <tittle> Experiencia Personal</title>
+        </head>
+        <body>
+
+            <header>
+                <nav aria-label= "Navegacion principal">
+                    <a href="#La primera meta"> la Primera meta</a>
+                    <a href="https://github.com/johngs2004-lang/Practica_html.git>MDN</a>
+                </nav>
+                <h1>Graducación</h1>
+            </header>
+
+            <section id="La primera meta">
+                <h3> 1. Notas</h3>
+                <p>En el colegio todo se decide por las notas cuanto mayor sea esta más merito tiene, una nota pude significar todo y a la vez nada es cierto que tener un nota reprobatorio es malo pero si diste lo mejor de ti no te entristescas solo mejora más, eso es algo increible de los seres humanos que pueden seguir evolucionando hasta lograr tus metas</p>
+            </section>
+        </main>
+        <footer><p>Por: Gómez John 2026</p></footers>
