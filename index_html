@@ -10,14 +10,20 @@
             <header>
                 <nav aria-label= "Navegacion principal">
                     <a href="#La primera meta"> la Primera meta</a>
-                    <a href="https://github.com/johngs2004-lang/Practica_html.git>MDN</a>
+                    <a href="https://johngs2004-lang.github.io/Practica_html/>MDN</a>
                 </nav>
-                <h1>Graducación</h1>
-            </header>
 
             <section id="La primera meta">
-                <h3> 1. Notas</h3>
+                <h2> 1. Notas</h2>
                 <p>En el colegio todo se decide por las notas cuanto mayor sea esta más merito tiene, una nota pude significar todo y a la vez nada es cierto que tener un nota reprobatorio es malo pero si diste lo mejor de ti no te entristescas solo mejora más, eso es algo increible de los seres humanos que pueden seguir evolucionando hasta lograr tus metas</p>
+            </section>
+            <section id="Seguir el camino">
+                <h3>2. El poder de las amistades</h3>
+                <p>En todos estos años que has tenido en el colegio las amistades es algo q no se olvida siendo uno de los pilares para llevar a cabo esta travecia</p>
+                </section>
+                <section id="La recta final"
+                <h4> 3.EL final</h4>
+                <p>Si todo ha salido bien y te sientes lo suficientemente seguro para seguir avanzando es el momento de caminar hacia adelante y logar lo que te propongas</p>
             </section>
         </main>
         <footer><p>Por: Gómez John 2026</p></footers>
